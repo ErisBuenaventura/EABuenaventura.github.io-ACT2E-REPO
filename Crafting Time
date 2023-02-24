@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport"content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body style= "background-color:
+Lightblue;">
+<head>
+<style>
+.newspaper {
+  column-count: 2;
+}
+</style>
+</head>
+<body>
+
+<body>
+<div class="w3-container">
+  <div class="w3-border">
+    <div class="w3-container w3-margin w3-black">
+ 
+ <h1>CRAFTING TIME</h1>
+    
+    <head>
+<style>
+span {
+  float: left;
+  width: 0.7em;
+  font-size: 400%;
+  font-family: algerian, courier;
+  line-height: 80%;
+}
+</style>
+</head>
+    
+<div class="newspaper"> <span>A</span>ccessories may be small pieces to add to a wardrobe, but any fashionista will tell you that the right accessory can make all the difference.
+
+It can elevate anotherwise simple outtfit,
+or show off your personal
+style. And in this case,
+as with The Clay
+Project's beautiful
+handcrafted accessories,
+they can tell a story too.</div>
+
+<p><img src='myimages/Craftingtime.png'/
+width="265" height
+= "165"></p>
+
+<title>Login Form</title>
+<link rel="stylesheet " type
+= "text/css" href="/style
+. CSs ">
+
+<div class="login- form">
+    
+<p><b>Log in</b></p>
+
+<form action= "#" method
+="post '">
+<p>User Name</p>
+ <input type= "text" name
+  ="user" placeholder
+  ="User Name"> <p
+  >Password</p>
+  
+ <p><input type="password" name
+  ="password" placeholder
+  ="Password"></p>
+  
+  </div>
+
+    </div>
+  </div>
+</div> 
+
+</style>
+</head>
+</body>
+</html>
+
+
+
